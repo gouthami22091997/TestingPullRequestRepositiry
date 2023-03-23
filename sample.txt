@@ -5,3 +5,4 @@ In this tutorial you will understand what Git is and how to use it on the remote
 You can choose, and change, which platform to focus on by clicking in the menu on the right:
 
 added on fork by vinay
+some files are added by srikanth
